@@ -29,7 +29,7 @@ public class App {
         }
         else{
 
-            System.out.println("\nPlease choose a user from the above users xD");
+            System.out.println("\nPlease choose a user from the above users xD hehe");
         }
 
         input.close();
