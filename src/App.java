@@ -169,7 +169,7 @@ public class App {
         }
         else{
 
-            System.out.println("\nPlease choose a user from the above users!");
+            System.out.println("\nPlease choose a user from the above users xD");
         }
 
         input.close();
